@@ -7,6 +7,9 @@ This project is a frontend application for restaurant, built using React and Typ
 
 [Project Demo](https://harmonious-mochi-831d67.netlify.app/)
 
+![image](https://github.com/josefer09/restaurant_menu/assets/155212116/b6a060fc-d520-4269-b693-bcd97f49b6c8)
+
+
 ## What I Learned
 
 In this project, I learned how to:
